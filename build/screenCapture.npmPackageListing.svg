@@ -1,0 +1,20 @@
+<svg height="270" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="270" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 17:11:25 +0000    70963 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 17:11:25 +0000     3814 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 17:11:25 +0000    15098 bytes  LICENSE-GPL</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 17:11:25 +0000     6191 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 17:11:25 +0000     3000 bytes  package.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 17:11:25 +0000    33387 bytes  tasks/checktextdomain.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 17:11:25 +0000     4225 bytes  test/checktextdomain_test.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 17:11:25 +0000      671 bytes  test/expected/incorrect-domain-autocorrect.php</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 17:11:25 +0000      733 bytes  test/expected/variable-domain-autocorrect.php</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 17:11:25 +0000      671 bytes  test/fixtures/correct-domain.php</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 17:11:25 +0000      769 bytes  test/fixtures/incorrect-domain-autocorrect.php</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 17:11:25 +0000      769 bytes  test/fixtures/incorrect-domain.php</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 17:11:25 +0000      467 bytes  test/fixtures/missing-domain.php</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 17:11:25 +0000      491 bytes  test/fixtures/plurals.php</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 17:11:25 +0000      677 bytes  test/fixtures/variable-domain-autocorrect.php</tspan>
+</text>
+</svg>
